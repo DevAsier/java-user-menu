@@ -1,0 +1,4 @@
+Eskaera:4857485
+Produktua:mesa
+Prezio:56.89
+Totala:682.6800000000001€
